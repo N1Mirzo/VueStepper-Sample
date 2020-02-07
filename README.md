@@ -2,7 +2,7 @@
 Created by Otabek Sadiridinov.
 
 # This is from VueStepper demo component.
-##### Just copied and rewrited befor using please install:
+##### Just copied and rewrited. Before using please install:
 ###### -- Node.JS
 ###### -- VueJS
 ###### -- Vuelidate
